@@ -1,2 +1,0 @@
-# Yogi
-Belajar web development
